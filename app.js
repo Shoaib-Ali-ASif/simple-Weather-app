@@ -1,4 +1,4 @@
-// API key for OpenWeatherMap (replace with your own)
+
 const apiKey = "e1612a0618eea4b194e061566236062f";
 
 // Event listener for the search button
